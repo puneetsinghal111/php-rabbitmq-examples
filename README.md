@@ -12,3 +12,12 @@ php ../composer.phar install
 php send.php
 php receive.php
 ```
+
+
+
+
+
+--
+I'm using [Alvaro Videla's](https://github.com/videlalvaro) **PHP-AMQPLib** on these examples:
+
+[https://github.com/videlalvaro/php-amqplib](https://github.com/videlalvaro/php-amqplib)
