@@ -28,6 +28,6 @@ php worker.php
 
 
 --
-I'm using [Alvaro Videla's](https://github.com/videlalvaro) **PHP-AMQPLib** on these examples:
+I'm using [Alvaro Videla's](https://github.com/videlalvaro) **PHP-AMQPLib** on these examples. More information:
 
 [https://github.com/videlalvaro/php-amqplib](https://github.com/videlalvaro/php-amqplib)
