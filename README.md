@@ -5,8 +5,10 @@ Some examples from the official tutorial about RabbitMQ and PHP
 
 **Install:**
 ```
+git clone https://github.com/rodolfobandeira/php-rabbitmq-examples.git
+cd php-rabbitmq-examples
 curl -sS https://getcomposer.org/installer | php
-php ../composer.phar install
+php composer.phar install
 ```
 -
 
